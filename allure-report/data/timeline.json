@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BLRW3022664",
+    "children" : [ {
+      "name" : "3012-MainThread",
+      "children" : [ {
+        "name" : "test_welcomepage",
+        "uid" : "7ba7f507c17a2f35",
+        "parentUid" : "710a16deedd4ea1ad7b0b06ad1db1e87",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561756731730,
+          "stop" : 1561756751351,
+          "duration" : 19621
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "710a16deedd4ea1ad7b0b06ad1db1e87"
+    } ],
+    "uid" : "94def999f59a623bd01b1993a57ad357"
+  } ]
+}

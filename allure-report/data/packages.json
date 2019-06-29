@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases.test_WelcomePage",
+    "children" : [ {
+      "name" : "test_welcomepage",
+      "uid" : "7ba7f507c17a2f35",
+      "parentUid" : "6054cbd61135c713564916a86ec837f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561756731730,
+        "stop" : 1561756751351,
+        "duration" : 19621
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testcases.test_WelcomePage"
+  } ]
+}

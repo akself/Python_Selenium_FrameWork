@@ -1,0 +1,102 @@
+{
+  "uid" : "7ba7f507c17a2f35",
+  "name" : "test_welcomepage",
+  "fullName" : "testcases.test_WelcomePage.WelcomePageTest#test_welcomepage",
+  "historyId" : "b33a66b97cb3a6819a2a1813b6724760",
+  "time" : {
+    "start" : 1561756731730,
+    "stop" : 1561756751351,
+    "duration" : 19621
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1561756731715,
+      "stop" : 1561756731715,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ea61c279e1e8876",
+      "name" : "log",
+      "source" : "ea61c279e1e8876.txt",
+      "type" : "text/plain",
+      "size" : 342
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1561756751352,
+      "stop" : 1561756751352,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_WelcomePage"
+  }, {
+    "name" : "subSuite",
+    "value" : "WelcomePageTest"
+  }, {
+    "name" : "host",
+    "value" : "BLRW3022664"
+  }, {
+    "name" : "thread",
+    "value" : "3012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_WelcomePage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ba7f507c17a2f35.json",
+  "parameterValues" : [ ]
+}

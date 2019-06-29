@@ -1,0 +1,5 @@
+[32mINFO    [0m root:drivermanager.py:30 ## SETUP METHOD ##
+[32mINFO    [0m root:drivermanager.py:31 # Initializing the web-driver.
+[32mINFO    [0m root:drivermanager.py:67 # Setting up firefox profile.
+[32mINFO    [0m root:drivermanager.py:51 ## TEARDOWN METHOD ##
+[32mINFO    [0m root:drivermanager.py:59 # Removing the webdriver.
